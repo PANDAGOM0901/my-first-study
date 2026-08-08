@@ -34,7 +34,7 @@ git restore [파일명]
 
 ### 터미널 사용 중 오류 해결
 #### 문제
-![alt text](image-2.png)
+![alt text](image_files/image-2.png)
 #### 원인
 명령어를 입력할 때 쌍따옴표(")를 열기만 하고 마무리에 짝을 맞춰 닫아주지 않았거나, 내부에 특수문자(!) 등이 포함되어 있을 때 주로 발생
 #### 확인
@@ -45,7 +45,7 @@ git restore [파일명]
 ctrl + C
 ```
 #### 문제
-![alt text](image-3.png)
+![alt text](image_files/image-3.png)
 #### 원인
 dquote> 프롬프트가 반복되거나 발생한 이유는 명령어에 포함된 느낌표(!) 때문
 #### 확인
@@ -70,5 +70,5 @@ echo 'Hello!' > note.txt
 ```
 echo "Hello\!" > note.txt
 ```
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](image_files/image-4.png)
+![alt text](image_files/image-5.png)
