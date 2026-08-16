@@ -16,8 +16,30 @@ Docker: Docker version 28.5.2
 
 Git: git version 2.53.0
 ## 수행 항목 체크리스트
-터미널/권한/Docker/Dockerfile/포트/마운트/볼륨/Git/GitHub
+- [x] 터미널
+- [x] 권한
+- [x] Docker
+- [x] Dockerfile
+- [x] 포트
+- [x] 마운트
+- [x] 볼륨
+- [x] Git/GitHub
 ## 검증방법 + 결과 위치 링크
+[1. 터미널 조작 로그 기록](/Users/chj09011500/Desktop/my-first-study/E1-1/1.md)
+
+[2. 권한 실습 및 증거 기록](/Users/chj09011500/Desktop/my-first-study/E1-1/2.md)
+
+[3. Docker 설치 및 기본 점검](/Users/chj09011500/Desktop/my-first-study/E1-1/3.md)
+
+[4. Docker 기본 운영 명령 수행](/Users/chj09011500/Desktop/my-first-study/E1-1/4.md)
+
+[5. 컨테이너 실행 실습](/Users/chj09011500/Desktop/my-first-study/E1-1/5.md)
+
+[6. 기존 Dockerfile 기반 커스텀 이미지 제작 및 포트 매핑 및 접속 증거](/Users/chj09011500/Desktop/my-first-study/E1-1/6.md)
+
+[7. 바운드 마운트 및 Docker 볼륨 영속성 검증](/Users/chj09011500/Desktop/my-first-study/E1-1/7.md)
+
+[8. Git 설정 및 GitHub 연동](/Users/chj09011500/Desktop/my-first-study/E1-1/8.md)
 
 ## 트러블슈팅
-
+[트러블슈팅](/U/Users/chj09011500/Desktop/my-first-study/E1-1/Trouble-shooting.md)
